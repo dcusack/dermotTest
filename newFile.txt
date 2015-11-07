@@ -6,6 +6,7 @@ Making changes on b3, and about to try to rebase this off of branch b1.
 
 This is b1 after the rebase
 
+This is now on b4, after making change to b1
 
 
 Gonna add two more lines to b1
