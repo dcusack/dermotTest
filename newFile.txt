@@ -5,3 +5,9 @@ This line is added from b2.
 Making changes on b3, and about to try to rebase this off of branch b1.
 
 This is b1 after creating b4 from b1.
+
+
+
+Gonna add two more lines to b1
+so i can do another rebase on b4 and hopefully end up with these 3
+lines actually in b4 after rebase
