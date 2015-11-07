@@ -9,6 +9,4 @@ This is b1 after the rebase
 This is now on b4, after making change to b1
 
 
-Gonna add two more lines to b1
-so i can do another rebase on b4 and hopefully end up with these 3
-lines actually in b4 after rebase
+Just going to put this into b4 for the hell of it
