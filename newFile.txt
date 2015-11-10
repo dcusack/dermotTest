@@ -12,3 +12,11 @@ This is now on b4, after making change to b1
 Gonna add two more lines to b1
 so i can do another rebase on b4 and hopefully end up with these 3
 lines actually in b4 after rebase
+
+
+This is the dc-1 branch now, going to try this rebase stuff again.
+Going to make another `dc-2` branch and checkout it off this branch.
+Make some changes to the existing lines and then do a rebase:)
+
+Going to the third line to read: "My name is Dermot" instead of:
+"This line is added from b2".
