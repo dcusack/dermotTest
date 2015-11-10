@@ -1,6 +1,6 @@
 This is a new file from b1.
 
-This line is added from b2.
+My name is Dermot
 
 Making changes on b3, and about to try to rebase this off of branch b1.
 
