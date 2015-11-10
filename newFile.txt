@@ -27,3 +27,6 @@ Here i go again one more time.
 What about making change on this file..
 
 Making change on same line in dc1 oh no whats going to happenjslfjkj
+
+Will i lose all changes from dc-2 if i switch to it after writing this and
+doing a rebase on to this branch dc1
