@@ -34,3 +34,5 @@ this branch!!! But i can make all the changes in the world on this branch,
 and if i do a rebase from dc-1 those changes will get overwritten!!
 
 Does that seem right?
+
+One of the branches neeeds to conform to hte changes of the other
