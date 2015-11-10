@@ -25,3 +25,6 @@ Going to the third line to read: "My name is Dermot" instead of:
 Here i go again one more time.
 
 What about making change on this file..
+
+what if i make change to same line in both files, keeping the change from dc2
+though!.
