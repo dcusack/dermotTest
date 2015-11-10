@@ -28,5 +28,9 @@ What about making change on this file..
 
 Making change on same line in dc1 oh no whats going to happenjslfjkj
 
-Will i lose all changes from dc-2 if i switch to it after writing this and
-doing a rebase on to this branch dc1
+
+This; is the feature branch, pretty much impossible to rebase onto dc-1 from
+this branch!!! But i can make all the changes in the world on this branch,
+and if i do a rebase from dc-1 those changes will get overwritten!!
+
+Does that seem right?
